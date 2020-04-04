@@ -1,0 +1,4 @@
+interface Ianimal {
+    fun food()
+
+}
